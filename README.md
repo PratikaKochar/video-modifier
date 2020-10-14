@@ -1,5 +1,7 @@
 # video-modifier
 Change, blur background of prerecorded videos. Also with a feature to apply makeup on human faces.<br> <br>
+Codebase: https://github.com/zllrunning/face-parsing.PyTorch
+
 Following steps are needed for executing the code:<br>
 Upload pre-recorded video in the datavideo folder with name as "video.mp4"<br>
 For changing background, upload image in the datavideo folder with name as "background.jpg"<br>
