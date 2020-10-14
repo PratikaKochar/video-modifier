@@ -8,4 +8,7 @@ For changing background, upload image in the datavideo folder with name as "back
 To modify videos, run the following command:<br>
   python test.py mode<br>
 where mode can be: change, blur, makeup<br>
-The modified video will be saved in  the datavideo folder.  
+The modified video will be saved in  the datavideo folder.  <br> <br>
+
+Summary: <br>
+video-modifier/adlg.pdf
